@@ -1,0 +1,24 @@
+{
+  "name": "pursuit-core-web-react-routing-lab",
+  "version": "1.0.0",
+  "description": "We've already used the [Dog API](https://dog.ceo/dog-api/) to get the image of a single, completely random dog. However, today we're doing something a little different. Today, we are creating a full-fledged app to fulfill all of your pet-image-searching desires: both cats and dogs.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "react-router-dom": "^5.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidMaravillas/Pursuit-Core-Web-React-Routing-Lab.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DavidMaravillas/Pursuit-Core-Web-React-Routing-Lab/issues"
+  },
+  "homepage": "https://github.com/DavidMaravillas/Pursuit-Core-Web-React-Routing-Lab#readme"
+}
