@@ -1,0 +1,14 @@
+nav {
+    display: flex; 
+    justify-content: space-around;
+    background-color: lightgreen;
+    color:red;
+    align-content: center;
+    text-align: center;
+    padding:5px;
+    align-items: center
+}
+
+.active {
+    color: red;
+}
